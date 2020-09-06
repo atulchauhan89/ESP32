@@ -1,3 +1,4 @@
+// This is obsoloute so you will get default temprature around 52 or 53 from chip,=.
 #include <WiFi.h> 
 
 #ifdef __cplusplus
